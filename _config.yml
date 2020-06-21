@@ -1,5 +1,9 @@
 title_html: "<b>Robert</b>Passmann"
 
+# Author Information
+email: "r.passmann@uva.nl"
+twitter_username: robertpassmann
+
 # Reading Files
 include:
   - .htaccess
