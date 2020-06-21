@@ -2,6 +2,7 @@
 permalink: /
 title: "Robert Passmann"
 layout: about
+invisible: true
 redirect_from: 
   - /about/
   - /about.html
