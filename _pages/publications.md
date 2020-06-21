@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-- Robert Passmann. **De Jongh’s Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**. In 28th EACSL Annual Conference on Computer Science Logic (CSL 2020), edited by Maribel Fernández and Anca Muscholl, 152:33:1–33:16. Leibniz International Proceedings in Informatics (LIPIcs). Dagstuhl, Germany: Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik, 2020 ([proceedings](https://doi.org/10.4230/LIPIcs.CSL.2020.33)). 
+- Robert Passmann. **De Jongh’s Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**. In 28th EACSL Annual Conference on Computer Science Logic (CSL 2020), edited by Maribel Fernández and Anca Muscholl, 152:33:1–33:16. Leibniz International Proceedings in Informatics (LIPIcs). Dagstuhl, Germany: Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik, 2020 ([proceedings](https://doi.org/10.4230/LIPIcs.CSL.2020.33)).
 - with Martin Potthast et al. (2016) **Who Wrote the Web? Revisiting Influential Author Identification Research Applicable to Information Retrieval**. In: Ferro N. et al. (eds) Advances in Information Retrieval. ECIR 2016. Lecture Notes in Computer Science, vol 9626. Springer, Cham ([proceedings](https://link.springer.com/chapter/10.1007%2F978-3-319-30671-1_29)).
 
 ## Preprints
