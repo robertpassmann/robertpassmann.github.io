@@ -1,7 +1,7 @@
 title_html: "<b>Robert</b>Passmann"
 description: "Robert Passmann is a PhD candidate in logic."
 url: https://robertpassmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
 
 # Author Information
 email: "r.passmann@uva.nl"
