@@ -7,8 +7,6 @@ redirect_from:
   - /talks.html
 ---
 
-# Talks
-
 - **De Jongh's Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**, 28th EACSL Annual Conference on Computer Science Logic (CSL 2020), Barcelona, Spain, 13-16 January 2020 ([conference](https://www.cs.upc.edu/csl2020/)).
 - **De Jongh's Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**, DMV-Jahrestagung 2019, Sektion: Logik und Theoretische Informatik, Department of Mathematics (MATH), Karlsruhe Institute of Technology (KIT), 25 September 2019 ([slides](https://robertpassmann.github.io/talks/2019-karlsruhe.pdf), [conference](https://dmv2019.math.kit.edu/programm/programm-fuer-logik-und-theoretische-informatik/)).
 - **E-models of IZF and intuitionistic multiverses**, Joel David Hamkins in Amsterdam 2019, ILLC, University of Amsterdam, 11 May 2019 ([workshop](http://events.illc.uva.nl/Workshops/Hamkins2019/)).
