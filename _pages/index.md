@@ -13,5 +13,3 @@ I am a PhD candidate at the [ILLC](http://www.illc.uva.nl), University of Amster
 My general areas of interest are mathematical logic, the foundations of mathematics and their philosophy—currently I am particularly curious about the connections of foundational systems and their logics.
 
 Please use the navigation on top of the page to find information about my publications and research talks.
-
-The German spelling of my last name is "_Paßmann_" written with the letter [_Eszett_ **ß**](https://en.wikipedia.org/wiki/ß) but in international contexts I usually use the spelling _Passmann_.
