@@ -13,7 +13,7 @@ redirect_from:
 
 ## Preprints
 
-- Robert Passmann, **The de Jongh Property for bounded constructive Zermelo-Fraenkel set theory** ([preprint](https://eprints.illc.uva.nl/id/document/10165)).
+- Rosalie Iemhoff, Robert Passmann, **Logics of Intuitionistic Kripke-Platek Set Theory**, submitted for publication.
 - Benedikt Löwe, Robert Passmann, Sourav Tarafder, **Constructing illoyal algebra-valued models of set theory**, submitted for publication ([preprint](https://eprints.illc.uva.nl/1647/1/LPT.pdf)).
 
 ## Master's Thesis
