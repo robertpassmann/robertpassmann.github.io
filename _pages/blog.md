@@ -2,6 +2,6 @@
 layout: home
 title:  "Blog"
 invisible: true
-pitch: "asdf"
+pitch: Test
 permalink: /blog/
 ---
