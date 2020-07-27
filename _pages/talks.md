@@ -7,6 +7,7 @@ redirect_from:
   - /talks.html
 ---
 
+- **Apartness in Constructive Set Theory**, Forschungsseminar Mathematische Logik, University of Hamburg, 15 April 2020 and 22 April 2020.
 - **De Jongh's Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**, 28th EACSL Annual Conference on Computer Science Logic (CSL 2020), Barcelona, Spain, 13-16 January 2020 ([conference](https://www.cs.upc.edu/csl2020/)).
 - **De Jongh's Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**, DMV-Jahrestagung 2019, Sektion: Logik und Theoretische Informatik, Department of Mathematics (MATH), Karlsruhe Institute of Technology (KIT), 25 September 2019 ([conference](https://dmv2019.math.kit.edu/programm/programm-fuer-logik-und-theoretische-informatik/)).
 - **E-models of IZF and intuitionistic multiverses**, Joel David Hamkins in Amsterdam 2019, ILLC, University of Amsterdam, 11 May 2019 ([workshop](http://events.illc.uva.nl/Workshops/Hamkins2019/)).
