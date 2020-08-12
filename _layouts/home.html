@@ -17,8 +17,10 @@ layout: default
   {{ content }}
 
   {% include post-ul.html limit=true %}
-
-  {% include calltoaction.html %}
+  
+  {% unless site.calltoaction != null %}
+    {% include calltoaction.html %}
+  {% endunless %}
 
   {% assign nb_posts = site.posts | size %}
 
