@@ -3,7 +3,6 @@ title: "robertpassmann.eu"
 description: "Robert Passmann is a PhD candidate in logic at the Institute for Logic, Language and Computation of the University of Amsterdam."
 url: https://www.robertpassmann.eu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
-pitch: False
 
 # Author Information
 email: "r.passmann@uva.nl"
