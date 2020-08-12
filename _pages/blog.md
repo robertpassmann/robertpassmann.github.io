@@ -2,6 +2,6 @@
 layout: home
 title:  "Blog"
 invisible: true
-description: ""
+excerpt: ""
 permalink: /blog/
 ---
