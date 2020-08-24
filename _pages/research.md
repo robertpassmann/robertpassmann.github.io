@@ -9,7 +9,7 @@ redirect_from:
   - /publications.html
 ---
 
-Below is an overview of my research papers. For a list of my recent research talks, [click here]({{ site.baseurl }}{% link /talks %}).
+Below is an overview of my research papers. For a list of my recent research talks, [click here](https://www.robertpassmann.eu/talks).
 
 - Robert Passmann. **De Jongh’s Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**. In 28th EACSL Annual Conference on Computer Science Logic (CSL 2020), edited by Maribel Fernández and Anca Muscholl, 152:33:1–33:16. Leibniz International Proceedings in Informatics (LIPIcs). Dagstuhl, Germany: Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik, 2020 ([proceedings](https://doi.org/10.4230/LIPIcs.CSL.2020.33)).
 - Robert Passmann. **Loyalty and Faithfulness of Model Constructions for Constructive Set Theory**. MSc Logic Thesis under the supervision of Professor Benedikt Löwe. 2018. ([abstract](https://eprints.illc.uva.nl/1612/), [pdf](https://eprints.illc.uva.nl/1612/7/MoL-2018-03.text.pdf)). Note that this online version contains a mistake in the proof of Theorem 5.8 but the theorem still holds (see [corrigendum](https://www.robertpassmann.eu/files/corrigendum-thesis.pdf)).
