@@ -1,6 +1,7 @@
 ---
 permalink: /talks
 title: "Talks"
+invisible: true
 layout: page
 redirect_from: 
   - /talks/
