@@ -22,3 +22,7 @@ redirect_from:
 - **Constructing models of constructive or intuitionistic set theory from classical models of set theory**, Categories Seminar, University of Cambridge, United Kingdom, 13 February 2018 ([abstract](http://talks.cam.ac.uk/talk/index/101122)).
 - **Surreal Numbers**, Set Theory Seminar, University of Cambridge, United Kingdom, 31 January 2017 ([abstract](http://talks.cam.ac.uk/talk/index/70592)).
 - **One Axiom to Rule Them All**, Cool Logic Seminar, ILLC, University of Amsterdam, The Netherlands, 4 November 2016 ([abstract](http://events.illc.uva.nl/coollogic/talks/75)).
+
+## Outreach
+
+- **Ist "Unendlich" eine Zahl?**, Online KinderCollege, DHBW Karlsruhe, Germany, 21 October 2020 ([flyer](https://www.karlsruhe.dhbw.de/fileadmin/user_upload/documents/content-de/Einrichtungen/Oeffentlichkeitsarbeit/Anhaenge-Veranstaltungen/KC-Flyer_WS_2020_2021_neu.pdf)).
