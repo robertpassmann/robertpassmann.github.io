@@ -8,6 +8,7 @@ redirect_from:
   - /talks.html
 ---
 
+- **Converse Extensionality and Apartness**, Categories and Types Seminar (CATS), ILLC, University of Amsterdam, 10 December 2020 ([seminar](https://staff.fnwi.uva.nl/t.uemura/cats/)).
 - **Logics of Intuitionistic Kripke-Platek Set Theory**, DMV Annual Meeting 2020, TU Chemnitz, 16 September 2020.
 - **Apartness in Constructive Set Theory**, Forschungsseminar Mathematische Logik, University of Hamburg, 15 April 2020 and 22 April 2020.
 - **De Jongh's Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**, 28th EACSL Annual Conference on Computer Science Logic (CSL 2020), Barcelona, Spain, 13-16 January 2020 ([conference](https://www.cs.upc.edu/csl2020/)).
