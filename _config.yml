@@ -8,6 +8,7 @@ baseurl: "/" # the subpath of your site, e.g. "/blog"
 email: "r.passmann@uva.nl"
 twitter_username: RobertPassmann
 github_username: robertpassmann
+linkedin_username: robert-passmann
 
 langs: ["en"]
 
