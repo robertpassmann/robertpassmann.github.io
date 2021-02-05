@@ -8,6 +8,7 @@ redirect_from:
   - /talks.html
 ---
 
+- **Converse Extensionality and Apartness**, STiHAC Seminar, Hamburg-Amsterdam-Cambridge, 28 January 2021.
 - **Converse Extensionality and Apartness**, Categories and Types Seminar (CATS), ILLC, University of Amsterdam, 10 December 2020 ([seminar](https://staff.fnwi.uva.nl/t.uemura/cats/)).
 - **Logics of Intuitionistic Kripke-Platek Set Theory**, DMV Annual Meeting 2020, TU Chemnitz, 16 September 2020.
 - **Apartness in Constructive Set Theory**, Forschungsseminar Mathematische Logik, University of Hamburg, 15 April 2020 and 22 April 2020.
