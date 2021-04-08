@@ -10,14 +10,14 @@ redirect_from:
 
 We will read the book *Ordinal Computability* by Merlin Carl. The book is available via iDiscover [here](https://idiscover.lib.cam.ac.uk/permalink/f/i6hdf6/44CAM_ALMA51596317020003606). For each session, two students will prepare a talk of 30 minutes each, as specified below.
 
-## First Meeting: Infinite Register Machines
+## First Meeting: Infinitary Analogues of Register Machines
 
 We will read the first half of chapter 2, pp. 9 – 44 (not including section 2.4). There will be two presentations:
 
 1. Sections 2.1 – 2.3.1. Simulation of machine models, halting problems, infinitary analogues of register machines, ITRMs with one register.
 2. Sections 2.3.2 – 2.3.5. Coding transitive structures, testing well-foundedness, evluating truth predicates and other properties of structures, ordinal register machines.
 
-## Second Meeting: Infinite Turing Machines
+## Second Meeting: Infinitary Analogues of Turing Machines
 
 We will read the second half of chapter 2, pp. 44 – 74. There will be two presentations:
 
