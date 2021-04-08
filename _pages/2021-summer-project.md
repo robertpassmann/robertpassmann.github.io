@@ -33,6 +33,8 @@ We will read the first half of chapter 3, pp. 77 – 118.
 1. Section 3.1 and 3.2. Preliminaries on L and admissibility. Computability strength of ORMs and alpha-register machines. The preliminaries on the constructible hierarchy and admissible sets and might require looking into other sources as well. 
 2. Section 3.3 and 3.4. Computational strength of alpha-register machines, alpha-wITRMs and ITRMs.
 
+Also consider exercises 3.9.1, 3.9.6.
+
 ## Fourth Meeting: Computability Strength II
 
 We will read the second half of chapter 3, pp. 118 – 153.
@@ -40,6 +42,7 @@ We will read the second half of chapter 3, pp. 118 – 153.
 1. Section 3.5 – 3.6.3. alpha-TMs and OTMs. First half on alpha-ITTMs and the Sigma_2 machine.
 2. Section 3.6.4 - 3.8. Second half on alpha-ITTMS and Sigma_2 machine (consequences). Accidental and eventual writeability.
 
+Consider the remaining exercises from 3.9.
 
 ## Fifth Meeting: Lost Melodies
 
@@ -54,3 +57,5 @@ We will read the second half of chapter 4, pp. 172 – 193.
 
 1. Section 4.3. Recognizability for ITRMs.
 2. Sections 4.4 - 4.5. Recognizability for OTMs. Variants of recognizability.
+
+Also consider the exercises in 4.7.
