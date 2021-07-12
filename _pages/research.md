@@ -11,7 +11,7 @@ redirect_from:
 
 Below is an overview of my research papers. For a list of my recent research talks, [click here](https://www.robertpassmann.eu/talks).
 
-- Rosalie Iemhoff, Robert Passmann, **Logics of Intuitionistic Kripke-Platek Set Theory**, Annals of Pure and Applied Logic. In press, journal pre-proof, 2021 ([open access](https://doi.org/10.1016/j.apal.2021.103014)).
+- Rosalie Iemhoff, Robert Passmann, **Logics of Intuitionistic Kripke-Platek Set Theory**, Annals of Pure and Applied Logic. Volume 172, Issue 10, 2021 ([open access](https://doi.org/10.1016/j.apal.2021.103014)).
 - Merlin Carl, Lorenzo Galeotti, Robert Passmann, **Randomising Realizability**. In: De Mol L., Weiermann A., Manea F., Fernández-Duque D. (eds) Connecting with Computability. CiE 2021. Lecture Notes in Computer Science, vol 12813. Springer, Cham. 2021 ([proceedings](https://doi.org/10.1007/978-3-030-80049-9_8), [arxiv](https://arxiv.org/abs/2101.12656)).
 - Benedikt Löwe, Robert Paßmann, and Sourav Tarafder. **Constructing illoyal algebra-valued models of set theory**. Algebra Universalis. 82, 46. 2021 ([open access](https://doi.org/10.1007/s00012-021-00735-4)). 
 - Robert Passmann. **De Jongh’s Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**. In 28th EACSL Annual Conference on Computer Science Logic (CSL 2020), edited by Maribel Fernández and Anca Muscholl, 152:33:1–33:16. Leibniz International Proceedings in Informatics (LIPIcs). Dagstuhl, Germany: Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik, 2020 ([proceedings](https://doi.org/10.4230/LIPIcs.CSL.2020.33)).
