@@ -10,7 +10,6 @@ redirect_from:
 If you are interested in an individual project under my supervision (e.g., a project in the MSc Logic, or a Bachelor's thesis for the BSc Mathematics), please do get in touch via e-mail so that we can further discuss your interests.
 
 ## Courses
-
 - Lecturer
   - **Calculus**, Amsterdam University College, 2019.
 - Supervisor
@@ -24,7 +23,8 @@ If you are interested in an individual project under my supervision (e.g., a pro
   - **Set Theory**, MasterMath, 2018, 2021.
   - **Mathematical Proof Methods for Logic**, University of Amsterdam, 2021.
 
-## Individual Student Supervision
-- MSc Logic, Individual Project on **Aczel's Type-Theoretic Interpretation of Constructive Zermelo-Fraenkel Set Theory** ([project report](https://eprints.illc.uva.nl/1769/1/wehr.pdf)).
-- BSc Mathematics, BSc Thesis on **Forcing: The relative consistency of the negation of the continuum hypothesis**.
-- BSc Mathematics, 2nd year project on **Simple Models of Set Theory**.
+## Student Project Supervision
+- **Transfinite Computability**, Summer Research Reading Group, University of Cambridge, 2021.
+- **Simple Models of Set Theory**, 2nd year project, BSc Mathematics, University of Amsterdam, 2021.
+- **Aczel's Type-Theoretic Interpretation of Constructive Zermelo-Fraenkel Set Theory**, individual project, MSc Logic, University of Amsterdam, 2020.
+- **Forcing: The relative consistency of the negation of the continuum hypothesis**, BSc Thesis, BSc Mathematics, University of Amsterdam, 2019.
