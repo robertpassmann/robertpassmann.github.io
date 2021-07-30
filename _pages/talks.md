@@ -8,6 +8,7 @@ redirect_from:
   - /talks.html
 ---
 
+- **Logical Pluralism and Meta-Logic**, Bergen Logic Group Seminar, University of Bergen, 19 February 2021.
 - **Converse Extensionality and Apartness**, STiHAC Seminar, Hamburg-Amsterdam-Cambridge, 28 January 2021.
 - **Converse Extensionality and Apartness**, Categories and Types Seminar (CATS), ILLC, University of Amsterdam, 10 December 2020 ([seminar](https://staff.fnwi.uva.nl/t.uemura/cats/)).
 - **Logics of Intuitionistic Kripke-Platek Set Theory**, DMV Annual Meeting 2020, TU Chemnitz, 16 September 2020.
