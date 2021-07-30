@@ -11,6 +11,7 @@ redirect_from:
 
 Below is an overview of my research papers. For a list of my recent research talks, [click here](https://www.robertpassmann.eu/talks).
 
+- Robert Passmann. **Should Pluralists be Pluralists about Pluralism?**, accepted for publication in Synthese. 
 - Rosalie Iemhoff, Robert Passmann, **Logics of Intuitionistic Kripke-Platek Set Theory**, Annals of Pure and Applied Logic. Volume 172, Issue 10, 2021 ([open access](https://doi.org/10.1016/j.apal.2021.103014)).
 - Merlin Carl, Lorenzo Galeotti, Robert Passmann, **Randomising Realizability**. In: De Mol L., Weiermann A., Manea F., Fernández-Duque D. (eds) Connecting with Computability. CiE 2021. Lecture Notes in Computer Science, vol 12813. Springer, Cham. 2021 ([proceedings](https://doi.org/10.1007/978-3-030-80049-9_8), [arxiv](https://arxiv.org/abs/2101.12656)).
 - Benedikt Löwe, Robert Paßmann, and Sourav Tarafder. **Constructing illoyal algebra-valued models of set theory**. Algebra Universalis. 82, 46. 2021 ([open access](https://doi.org/10.1007/s00012-021-00735-4)). 
