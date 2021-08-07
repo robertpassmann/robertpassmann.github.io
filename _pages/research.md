@@ -12,7 +12,7 @@ redirect_from:
 I am a logician working on the following areas. For a list of my recent research talks, [click here](https://www.robertpassmann.eu/talks).
 
 ### Philosophy of Logic
-- Robert Passmann. **Should pluralists be pluralists about pluralism?**. Synthese. 2021 ([open access](https://doi.org/10.1007/s11229-021-03348-5)). 
+- Robert Passmann. **Should pluralists be pluralists about pluralism?** Synthese. 2021 ([open access](https://doi.org/10.1007/s11229-021-03348-5)). 
 
 ### Logics of Non-Classical Set Theories
 - Rosalie Iemhoff, Robert Passmann, **Logics of intuitionistic Kripke-Platek set theory**. Annals of Pure and Applied Logic. Volume 172, Issue 10, 2021 ([open access](https://doi.org/10.1016/j.apal.2021.103014)).
