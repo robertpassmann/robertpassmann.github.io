@@ -8,6 +8,7 @@ redirect_from:
   - /talks.html
 ---
 
+- **Should Pluralists be Pluralists about Pluralism?**, British Logic Colloquium PhD Day, Durham University, 1 September 2021 ([conference](https://nedwontner.weebly.com/blcphd2021.html)). 
 - **Logical Pluralism and Meta-Logic**, Bergen Logic Group Seminar, University of Bergen, 19 February 2021.
 - **Converse Extensionality and Apartness**, STiHAC Seminar, Hamburg-Amsterdam-Cambridge, 28 January 2021.
 - **Converse Extensionality and Apartness**, Categories and Types Seminar (CATS), ILLC, University of Amsterdam, 10 December 2020 ([seminar](https://staff.fnwi.uva.nl/t.uemura/cats/)).
