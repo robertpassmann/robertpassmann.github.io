@@ -9,7 +9,7 @@ redirect_from:
   - /publications.html
 ---
 
-I am a logician working on the following areas. For a list of my recent research talks, [click here](https://www.robertpassmann.eu/talks).
+Here's a list of the areas I'm interested in. For a list of my recent research talks, [click here](https://www.robertpassmann.eu/talks).
 
 ### Philosophy of Logic
 - Robert Passmann. **Should pluralists be pluralists about pluralism?** Synthese. 2021 ([open access](https://doi.org/10.1007/s11229-021-03348-5)). 
