@@ -15,6 +15,7 @@ Here's a list of the areas I'm interested in. For a list of my recent research t
 - Robert Passmann. **Should pluralists be pluralists about pluralism?** Synthese. 2021 ([open access](https://doi.org/10.1007/s11229-021-03348-5)). 
 
 ### Logics of Non-Classical Set Theories
+- Robert Passmann. **The first-order logic of CZF is intuitionistic first-order logic** ([arxiv](https://arxiv.org/abs/2112.00486)).
 - Rosalie Iemhoff, Robert Passmann. **Logics of intuitionistic Kripke-Platek set theory**. Annals of Pure and Applied Logic. Volume 172, Issue 10, 2021 ([open access](https://doi.org/10.1016/j.apal.2021.103014)).
 - Benedikt Löwe, Robert Paßmann, and Sourav Tarafder. **Constructing illoyal algebra-valued models of set theory**. Algebra Universalis. 82, 46. 2021 ([open access](https://doi.org/10.1007/s00012-021-00735-4)). 
 - Robert Passmann. **De Jongh’s Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**. In 28th EACSL Annual Conference on Computer Science Logic (CSL 2020), edited by Maribel Fernández and Anca Muscholl, 152:33:1–33:16. Leibniz International Proceedings in Informatics (LIPIcs). Dagstuhl, Germany: Schloss Dagstuhl–Leibniz-Zentrum fuer Informatik, 2020 ([proceedings](https://doi.org/10.4230/LIPIcs.CSL.2020.33)).
