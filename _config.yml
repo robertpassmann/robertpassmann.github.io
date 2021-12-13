@@ -6,6 +6,7 @@ baseurl: "/" # the subpath of your site, e.g. "/blog"
 
 # Author Information
 email: "r.passmann@uva.nl"
+contact: "e-mail"
 twitter_username: RobertPassmann
 github_username: robertpassmann
 linkedin_username: robert-passmann
