@@ -12,7 +12,7 @@ redirect_from:
 Here's a list of my work in areas I'm interested in or have worked on in the past. For a list of my recent talks, [click here](https://www.robertpassmann.eu/talks).
 
 ### Philosophy of Logic
-- Robert Passmann. **Should pluralists be pluralists about pluralism?** Synthese. 2021 ([open access](https://doi.org/10.1007/s11229-021-03348-5)). 
+- Robert Passmann. **Should pluralists be pluralists about pluralism?**. Synthese 199, 12663–12682. 2021 ([open access](https://doi.org/10.1007/s11229-021-03348-5)).  
 
 ### Mathematical Logic
 - Robert Passmann. **The first-order logic of CZF is intuitionistic first-order logic** ([arxiv](https://arxiv.org/abs/2112.00486)).
