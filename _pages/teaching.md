@@ -11,6 +11,7 @@ If you are interested in an individual project under my supervision (e.g., a pro
 
 ## Courses
 - Lecturer
+  - **Rudiments of Axiomatic Set Theory**, MSc Logic, University of Amsterdam, fall 2022.
   - **Calculus**, Amsterdam University College, 2019.
 - Supervisor
   - **Logic and Set Theory**, Faculty of Mathematics, University of Cambridge, Lent 2021.
