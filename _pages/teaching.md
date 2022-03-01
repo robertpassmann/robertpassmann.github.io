@@ -12,17 +12,17 @@ If you are interested in an individual project under my supervision (e.g., a pro
 ## Courses
 - Lecturer
   - **Rudiments of Axiomatic Set Theory**, MSc Logic, University of Amsterdam, fall 2022.
-  - **Calculus**, Amsterdam University College, 2019.
+  - **Calculus**, Bachelor Liberal Arts and Sciences, Amsterdam University College, 2019.
 - Supervisor
   - **Logic and Set Theory**, Faculty of Mathematics, University of Cambridge, Lent 2021.
   - **Automata and Formal Languages**, Faculty of Mathematics, University of Cambridge, Michaelmas 2020.
 - Teaching Assistant 
   - **IA: Formal Methods**, Faculty of Philosophy, University of Cambridge, 2020-2021.
-  - **Logic and the Human Factor in Forensic Reasoning**, University of Amsterdam, 2018, 2019.
-  - **Proof Theory**, University of Amsterdam, 2020.
-  - **Axiomatic Set Theory**, University of Amsterdam, 2018, 2019.
-  - **Set Theory**, MasterMath, 2018, 2021.
-  - **Mathematical Proof Methods for Logic**, University of Amsterdam, 2021.
+  - **Logic and the Human Factor in Forensic Reasoning**, MSc Forensic Science, University of Amsterdam, 2018, 2019.
+  - **Proof Theory**, MSc Logic, University of Amsterdam, 2020.
+  - **Axiomatic Set Theory**, BSc Mathematics, University of Amsterdam, 2018, 2019.
+  - **Set Theory**, MasterMath, University of Amsterdam, 2018, 2021.
+  - **Mathematical Proof Methods for Logic**, MSc Logic, University of Amsterdam, 2021.
 
 ## Student Project Supervision
 - **Transfinite Computability**, Summer Research Reading Group, University of Cambridge, 2021.
