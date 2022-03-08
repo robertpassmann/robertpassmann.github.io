@@ -8,6 +8,7 @@ redirect_from:
   - /talks.html
 ---
 
+- **On the logical structure of constructive set theories**, Logic Seminar, Department of Philosophy, Peking University, 8 March 2022.  
 - **Should Pluralists be Pluralists about Pluralism?**, British Logic Colloquium PhD Day, Durham University, 1 September 2021 ([conference](https://nedwontner.weebly.com/blcphd2021.html)). 
 - **Logical Pluralism and Meta-Logic**, Bergen Logic Group Seminar, University of Bergen, 19 February 2021.
 - **Converse Extensionality and Apartness**, STiHAC Seminar, Hamburg-Amsterdam-Cambridge, 28 January 2021.
