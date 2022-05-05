@@ -11,8 +11,9 @@ If you are interested in an individual project under my supervision (e.g., a pro
 
 ## Courses
 - Lecturer
-  - **Rudiments of Axiomatic Set Theory**, MSc Logic, University of Amsterdam, 2022.
-  - **Calculus**, Bachelor Liberal Arts and Sciences, Amsterdam University College, 2019.
+  - **Rudiments of Axiomatic Set Theory**, MSc Logic, University of Amsterdam, semester 1, 2022-23.
+  - **Philosophy of Logic: Logical Pluralism**, MSc Logic, University of Amsterdam, semester 2, 2021-22.
+  - **Calculus**, Bachelor Liberal Arts and Sciences, Amsterdam University College, semester 2, 2018-19.
 - Supervisor
   - **Logic and Set Theory**, Faculty of Mathematics, University of Cambridge, Lent 2021.
   - **Automata and Formal Languages**, Faculty of Mathematics, University of Cambridge, Michaelmas 2020.
