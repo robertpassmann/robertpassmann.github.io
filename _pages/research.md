@@ -19,7 +19,7 @@ My main interests in the *philosophy of logic* and the *philosophy of mathematic
 - Robert Passmann. **Should pluralists be pluralists about pluralism?**. Synthese 199, 12663–12682. 2021 ([open access](https://doi.org/10.1007/s11229-021-03348-5)).  
 
 ### Mathematical Logic
-- Robert Passmann. **The first-order logic of CZF is intuitionistic first-order logic** ([arxiv](https://arxiv.org/abs/2112.00486)).
+- Robert Passmann. **The first-order logic of CZF is intuitionistic first-order logic**, accepted for publication in the Journal of Symbolic Logic ([arxiv](https://arxiv.org/abs/2112.00486)).
 - Benno van den Berg, Robert Passmann. **Converse extensionality and apartness**, submitted for publication ([arxiv](https://arxiv.org/abs/2103.14482)).
 - Merlin Carl, Lorenzo Galeotti, Robert Passmann. **Realisability for Infinitary Intuitionistic Set Theory**, submitted for publication ([arxiv](https://arxiv.org/abs/2009.12172)).
 - Merlin Carl, Lorenzo Galeotti, Robert Passmann. **Randomising Realizability**. In: De Mol L., Weiermann A., Manea F., Fernández-Duque D. (eds) Connecting with Computability. CiE 2021. Lecture Notes in Computer Science, vol 12813. Springer, Cham. 2021 ([proceedings](https://doi.org/10.1007/978-3-030-80049-9_8), [arxiv](https://arxiv.org/abs/2101.12656)).
