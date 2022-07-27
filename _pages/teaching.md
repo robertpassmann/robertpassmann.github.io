@@ -27,7 +27,8 @@ If you are interested in an individual project under my supervision (e.g., a pro
   - **Reasoning, Modelling and Data Science**, MSc Forensic Science, University of Amsterdam, 2018.
 
 ## Student Project Supervision
+- **Intuitionistic Logic of Paradox**, BSc Thesis, BSc Mathematics, University of Amsterdam, 2022 ([thesis](https://scripties.uba.uva.nl/search?id=729148)). 
 - **Transfinite Computability**, Summer Research Reading Group, University of Cambridge, 2021.
 - **Simple Models of Set Theory**, 2nd year project, BSc Mathematics, University of Amsterdam, 2021.
-- **Aczel's Type-Theoretic Interpretation of Constructive Zermelo-Fraenkel Set Theory**, individual project, MSc Logic, University of Amsterdam, 2020.
-- **Forcing: The relative consistency of the negation of the continuum hypothesis**, BSc Thesis, BSc Mathematics, University of Amsterdam, 2019.
+- **Aczel's Type-Theoretic Interpretation of Constructive Zermelo-Fraenkel Set Theory**, individual project, MSc Logic, University of Amsterdam, 2020 ([report](https://eprints.illc.uva.nl/id/eprint/1769/)).
+- **Forcing: The relative consistency of the negation of the continuum hypothesis**, BSc Thesis, BSc Mathematics, University of Amsterdam, 2019 ([thesis](https://scripties.uba.uva.nl/search?id=715231)).
