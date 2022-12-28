@@ -16,6 +16,7 @@ In *mathematical logic*, I'm mainly concerned with investigating logical propert
 My main interests in the *philosophy of logic* and the *philosophy of mathematics* are anti-exceptionalism about logic, the debate surrounding logical pluralism as well as connections between logical and mathematical pluralism. I am particularly curious about investigating the philosophical ramifications of results in mathematical logic and pondering mathematical questions which originate from philosophical problems. 
 
 ### Publications
+
 {:reversed="reversed"}
 10. Robert Passmann. **The first-order logic of CZF is intuitionistic first-order logic**. Accepted for publication in The Journal of Symbolic Logic ([arxiv](https://arxiv.org/abs/2112.00486), [journal](https://www.doi.org/10.1017/jsl.2022.51)).
 9. Rosalie Iemhoff, Robert Passmann. **Logics and Admissible Rules of Constructive Set Theories**. Accepted for publication in Philosophical Transactions of the Royal Society A ([arxiv](https://arxiv.org/abs/2212.03105)).
