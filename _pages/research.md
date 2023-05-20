@@ -26,5 +26,6 @@ Below you can find a list of my published works. For a list of my recent talks, 
 1. with Martin Potthast et al. (2016) **Who Wrote the Web? Revisiting Influential Author Identification Research Applicable to Information Retrieval**. In: Ferro N. et al. (eds) Advances in Information Retrieval. ECIR 2016. Lecture Notes in Computer Science, vol 9626. Springer, Cham ([proceedings](https://link.springer.com/chapter/10.1007%2F978-3-319-30671-1_29)).
 
 
-#### Master's Thesis
+#### Theses
+- Robert Passmann. **Logical Structure of Constructive Set Theories**. PhD thesis. University of Amsterdam. ([UvA library](https://hdl.handle.net/11245.1/a44a2e08-ad0d-4451-ae6d-769a2afba78f)).
 - Robert Passmann. **Loyalty and Faithfulness of Model Constructions for Constructive Set Theory**. MSc Logic Thesis under the supervision of Professor Benedikt Löwe. 2018. ([abstract](https://eprints.illc.uva.nl/1612/), [pdf](https://eprints.illc.uva.nl/1612/7/MoL-2018-03.text.pdf)). Note that this online version contains a mistake in the proof of Theorem 5.8 but the theorem still holds (see [corrigendum](https://www.robertpassmann.eu/files/corrigendum-thesis.pdf)).
