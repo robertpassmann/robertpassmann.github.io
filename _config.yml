@@ -5,7 +5,7 @@ url: https://www.robertpassmann.eu # the base hostname & protocol for your site 
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 
 # Author Information
-email: "r.passmann@uva.nl"
+email: "rp683@cantab.ac.uk"
 contact: "e-mail"
 github_username: robertpassmann
 linkedin_username: robert-passmann
