@@ -14,7 +14,7 @@ Below you can find a list of my published works. For a list of my recent talks, 
 ### Publications
 
 {:reversed="reversed"}
-10. Robert Passmann. **The first-order logic of CZF is intuitionistic first-order logic**. The Journal of Symbolic Logic, 89(1):308-330, 2024. ([open access](https://www.doi.org/10.1017/jsl.2022.51)).
+10. Robert Passmann. **The first-order logic of CZF is intuitionistic first-order logic**. The Journal of Symbolic Logic, 89(1):308-330, 2024 ([open access](https://www.doi.org/10.1017/jsl.2022.51)).
 9. Rosalie Iemhoff, Robert Passmann. **Logics and Admissible Rules of Constructive Set Theories**. Philosophical Transactions of the Royal Society A, 381: 20220018, 2023 ([open access](https://doi.org/10.1098/rsta.2022.0018)).
 8. Merlin Carl, Lorenzo Galeotti, Robert Passmann. **Realisability for Infinitary Intuitionistic Set Theory**. Annals of Pure and Applied Logic. Volume 174, Issue 6, 2023 ([open access](https://doi.org/10.1016/j.apal.2023.103259)).
 7. Benno van den Berg, Robert Passmann. **Converse extensionality and apartness**. Logical Methods in Computer Science, Volume 18, Issue 4, 2022 ([open access](https://lmcs.episciences.org/10511), [arxiv](https://arxiv.org/abs/2103.14482)).
