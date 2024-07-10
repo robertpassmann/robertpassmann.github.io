@@ -8,7 +8,7 @@ redirect_from:
   - /cv.html
 ---
 
-- **since 2023.** Scientist at TNO-ESI.
+- **since 2023.** Working at TNO.
 - **2019-2023.** PhD candidate in logic, Institute for Logic, Language and Computation, Universiteit van Amsterdam.
 - **2019-2022.** PhD scholarship (Promotionsstipendium), [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de).
 - **2021.** MPhil Philosophy, St John's College, University of Cambridge.
