@@ -8,6 +8,7 @@ redirect_from:
   - /talks.html
 ---
 
+- **TBA**, Invited Speaker PhD Colloquium, Colloquium Logicum, Vienna, 8 - 9 October 2024.
 - **On the Logical Instability of Mathematical Theories**, Bergen Logic Group Seminar, University of Bergen, 10 May 2022.
 - **On the logical structure of constructive set theories**, Logic4Peace, 23 April 2022.
 - **On the logical structure of constructive set theories**, Logic Seminar, Department of Philosophy, Peking University, 8 March 2022.  
